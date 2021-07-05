@@ -12,8 +12,8 @@
 ```startuml
 @startuml
 Entity01}|..||Entity02
-Entity03}○..○|Entity04
-Entity05||--○{Entity06
-Entity07|○--||Entity08
+Entity03}o..o|Entity04
+Entity05|o--o{ Entity06
+Entity07|o--||Entity08
 @enduml
 ```
